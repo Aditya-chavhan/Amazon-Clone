@@ -1,10 +1,4 @@
-Got it — here’s your updated **README.md** with the correct author:
-
----
-
 # 🛒 Amazon Clone (Frontend Project)
-
-![Amazon Clone Logo](amazon%20ka%20log.png)
 
 ## 📌 Overview
 
